@@ -10,3 +10,5 @@ The task is to implement a system finding frequent itemsets (aka market-basket a
 The «IMDB» dataset is published on Kaggle, under IMDb non-commercial licensing. The analysis must be done considering movies as baskets and actors as items.
 
 The Colab Notebook can be found at:
+
+https://colab.research.google.com/github/RemonRezk/AMP_PROJECT_DSE/blob/main/AMD_MBA_IMDB_PROJECT_REMON_REZK.ipynb
