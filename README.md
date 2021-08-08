@@ -1,7 +1,9 @@
 # AMD_PROJECT_DSE
 
 «Algorithms for massive datasets»
+
 Master in Data Science for Economics
+
 Projects for 2020-21
 
 Project 2: Market-basket analysis
